@@ -1,0 +1,25 @@
+_repo: The-Little-Ball-O-Fire-or-the-Life-and-Adventures-of-John-Marston-Hall-The-Works-of-G-P-R-Jam__49473
+creator:
+  author:
+    agent_name: James, G. P. R. (George Payne Rainsford)
+    alias: James, George Payne Rainsford
+    birthdate: 1801
+    deathdate: 1860
+    gutenberg_agent_id: '1301'
+    url: http://www.gutenberg.org/2009/agents/1301
+    wikipedia: http://en.wikipedia.org/wiki/George_Payne_Rainsford_James
+description: ''
+gutenberg_issued: '2015-07-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '49473'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'France -- History -- Louis XIV, 1643-1715 -- Fiction'
+title: "The Little Ball O' Fire; or, the Life and Adventures of John Marston Hall\r\
+  \nThe Works of G. P. R. James, Vol. XV."
+url: http://www.gutenberg.org/ebooks/49473
